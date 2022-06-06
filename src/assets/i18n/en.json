@@ -1,0 +1,36 @@
+{
+  "language": {
+    "croatian": "Croatian",
+    "english": "English"
+  },
+  "navbar": {
+    "username": "Username",
+    "role": "You are logged in as",
+    "login": "Login",
+    "logout": "Logout"
+  },
+  "login": {
+    "title": "Login",
+    "username": "Username",
+    "password": "Password",
+    "loginButton": "Login",
+    "hint": "Enter username",
+    "hint2": "Enter password",
+    "loginError": "Login failed! Check your credentials and try again."
+  },
+  "hardware": {
+    "title": "Hardware",
+    "title2": "Hardware insertion",
+    "text": "Insert new hardware",
+    "code": "Code:",
+    "header": "Name:",
+    "type": "Type:",
+    "number": "Amount in stock:",
+    "price": "Price:",
+    "button1": "Insert hardware",
+    "button2": "Back",
+    "details": "Details about",
+    "status": "There are currently no reviews for this hardware",
+    "installments": "This hardware can be purchased in 6 installments."
+  }
+}
